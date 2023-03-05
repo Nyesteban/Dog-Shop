@@ -1,0 +1,10 @@
+Labrador,Tim,10,https://www.taramulanimalelor.com/wp-content/uploads/2020/10/Labrador-caracteristici-rasa-caine.jpg
+Rottweiler,Max,2,https://www.animalepierdute.ro/wp-content/uploads/2019/09/Rottweiler.jpg
+Affenpinscher,Cooper,1,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2020/05/21144745/Affenpinscher-running.jpg
+Border Collie,Charlie,3,https://i.differencevs.com/preview/animals/6858143-difference-between-collie-and-border-collie.jpg
+Boxer,Teddy,1,https://s36700.pcdn.co/wp-content/uploads/2019/03/Close-up-of-a-Boxer-with-tongue-out-happy.jpg.optimal.jpg
+Barbet,Kobe,7,https://www.akc.org/wp-content/uploads/2017/11/Barbet-standing-in-the-snow.jpg
+Husky,Oscar,9,https://www.zooplus.ro/ghid/wp-content/uploads/2021/11/Caini-din-rasa-Husky-Siberian.-Adult-si-pui.jpg
+Border Terrier,Bo,3,https://vetwork.co/galaxy/wp-content/uploads/8-face.jpg
+Akita Inu,Buddy,8,https://brit-petfood.com/file/nodes/product/akitainu.jpg
+Bull Terrier,Walter,10,https://www.akc.org/wp-content/uploads/2017/11/bull-terrier-on-white-10.jpg
